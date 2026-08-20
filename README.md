@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Adeola Abidemi
+# 👋 Hey, I'm KodexNg
 
 ### 💻 Full-Stack Developer | 📱 Mobile App Developer | 🎨 UI/UX Enthusiast | 🌐 IT & Network Specialist
 
